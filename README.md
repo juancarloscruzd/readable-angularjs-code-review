@@ -1,5 +1,5 @@
 I'm not the author of this amazing code review checklist.
-(Source)[https://angularcodereview.com/angularjs/]
+[Source](https://angularcodereview.com/angularjs/)
 
 #Code Style
 
